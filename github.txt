@@ -7,4 +7,11 @@ git init
 git add github.txt
 git commit -m 'ceshi'
 git push -u origin master
+新建项目后需要
+git init
+git add .
+$ git commit -m '工具'
+$ git remote add origin git@github.com:fanxiangRz/-.git
+$ git push -u origin master
+
 
