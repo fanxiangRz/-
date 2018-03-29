@@ -1,0 +1,10 @@
+https://blog.csdn.net/hanhailong726188/article/details/46738929
+
+之后如果只是更改需要git add .
+git push -u origin master  // 第一次推送后，直接使用该命令即可推送修改
+如果新增则需要四步走战略
+git init
+git add github.txt
+git commit -m 'ceshi'
+git push -u origin master
+
